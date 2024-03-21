@@ -7,6 +7,7 @@ import java.util.NoSuchElementException;
 import java.util.Scanner;
 //Included for the logging exercise
 import java.io.FileInputStream;
+import java.io.IOException;
 import java.util.logging.Level;
 import java.util.logging.LogManager;
 import java.util.logging.Logger;
@@ -62,8 +63,9 @@ public class App {
             }
 
         } catch (IOException e) {
-            System.out.println("Not able to load . Sorry!");
-            System.out.println(e.getMessage());
+            /*System.out.println("Not able to load . Sorry!");
+            System.out.println(e.getMessage());*/
+            logger.log(Level.WARNING,"Exception: ", e);
             return;
         }
 
@@ -77,16 +79,20 @@ public class App {
                 System.out.println("You've guessed '" + guess+"'.");
 
                 if (wordleDatabaseConnection.isValidWord(guess)) { 
-                    System.out.println("Success! It is in the the list.\n");
+                   // System.out.println("Success! It is in the the list.\n");
+                   System.out.println("Success! Good Guess!\n");
                 }else{
-                    System.out.println("Sorry. This word is NOT in the the list.\n");
+                    //System.out.println("Sorry. This word is NOT in the the list.\n");
+                    System.out.println("Sorry. Bad Guess!\n");
+                    logger.log(Level.INFO, "Invalid Guess: {0}" ,guess);
                 }
 
                 System.out.print("Enter a 4 letter word for a guess or q to quit: " );
                 guess = scanner.nextLine();
             }
         } catch (NoSuchElementException | IllegalStateException e) {
-            e.printStackTrace();
+            //e.printStackTrace();
+            logger.log(Level.WARNING,"Exception: ", e);
         }
 
     }

@@ -1,0 +1,2008 @@
+Mar 21, 2024 12:38:51 PM workshop05code.App main
+INFO: Invalid Guess: fosa
+Mar 21, 2024 12:39:09 PM workshop05code.App main
+INFO: Invalid Guess: sda
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: able
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: acid
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: aged
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: also
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: area
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: army
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: away
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: baby
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: back
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: ball
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: band
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: bank
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: base
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: bath
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: bear
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: beat
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: been
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: beer
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: bell
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: belt
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: best
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: bill
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: bird
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: blow
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: blue
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: boat
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: body
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: bomb
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: bond
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: bone
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: book
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: boom
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: born
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: boss
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: both
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: bowl
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: bulk
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: burn
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: bush
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: busy
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: call
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: calm
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: came
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: camp
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: card
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: care
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: case
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: cash
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: cast
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: cell
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: chat
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: chip
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: city
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: club
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: coal
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: coat
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: code
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: cold
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: come
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: cook
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: cool
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: cope
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: copy
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: CORE
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: cost
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: crew
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: crop
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: dark
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: data
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: date
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: dawn
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: days
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: dead
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: deal
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: dean
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: dear
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: debt
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: deep
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: deny
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: desk
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: dial
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: dick
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: diet
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: disc
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: disk
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: does
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: done
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: door
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: dose
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: down
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: draw
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: drew
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: drop
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: drug
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: dual
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: duke
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: dust
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: duty
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: each
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: earn
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: ease
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: east
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: easy
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: edge
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: else
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: even
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: ever
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: evil
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: exit
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: face
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: fact
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: fail
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: fair
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: fall
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: farm
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: fast
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: fate
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: fear
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: feed
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: feel
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: feet
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: fell
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: felt
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: file
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: fill
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: film
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: find
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: fine
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: fire
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: firm
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: fish
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: five
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: flat
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: flow
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: food
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: foot
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: ford
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: form
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: fort
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: four
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: free
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: from
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: fuel
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: full
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: fund
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: gain
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: game
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: gate
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: gave
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: gear
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: gene
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: gift
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: girl
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: give
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: glad
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: goal
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: goes
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: gold
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: Golf
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: gone
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: good
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: gray
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: grew
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: grey
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: grow
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: gulf
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: hair
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: half
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: hall
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: hand
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: hang
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: hard
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: harm
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: hate
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: have
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: head
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: hear
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: heat
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: held
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: hell
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: help
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: here
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: hero
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: high
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: hill
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: hire
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: hold
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: hole
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: holy
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: home
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: hope
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: host
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: hour
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: huge
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: hung
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: hunt
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: hurt
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: idea
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: inch
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: into
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: iron
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: item
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: jack
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: jane
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: jean
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: john
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: join
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: jump
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: jury
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: just
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: keen
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: keep
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: kent
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: kept
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: kick
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: kill
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: kind
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: king
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: knee
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: knew
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: know
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: lack
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: lady
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: laid
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: lake
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: land
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: lane
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: last
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: late
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: lead
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: left
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: less
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: life
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: lift
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: like
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: line
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: link
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: list
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: live
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: load
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: loan
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: lock
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: logo
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: long
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: look
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: lord
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: lose
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: loss
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: lost
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: love
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: luck
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: made
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: mail
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: main
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: make
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: male
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: many
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: Mark
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: mass
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: matt
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: meal
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: mean
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: meat
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: meet
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: menu
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: mere
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: mike
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: mile
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: milk
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: mill
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: mind
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: mine
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: miss
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: mode
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: mood
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: moon
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: more
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: most
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: move
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: much
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: must
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: name
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: navy
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: near
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: neck
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: need
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: news
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: next
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: nice
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: nick
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: nine
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: none
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: nose
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: note
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: okay
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: once
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: only
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: onto
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: open
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: oral
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: over
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: pace
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: pack
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: page
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: paid
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: pain
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: pair
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: palm
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: park
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: part
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: pass
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: past
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: path
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: peak
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: pick
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: pink
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: pipe
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: plan
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: play
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: plot
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: plug
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: plus
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: poll
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: pool
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: poor
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: port
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: post
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: pull
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: pure
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: push
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: race
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: rail
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: rain
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: rank
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: rare
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: rate
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: read
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: real
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: rear
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: rely
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: rent
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: rest
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: rice
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: rich
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: ride
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: ring
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: rise
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: risk
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: road
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: rock
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: role
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: roll
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: roof
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: room
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: root
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: rose
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: rule
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: rush
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: ruth
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: safe
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: said
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: sake
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: sale
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: salt
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: same
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: sand
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: save
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: seat
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: seed
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: seek
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: seem
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: seen
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: self
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: sell
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: send
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: sent
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: sept
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: ship
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: shop
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: shot
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: show
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: shut
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: sick
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: side
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: sign
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: site
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: size
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: skin
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: slip
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: slow
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: snow
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: soft
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: soil
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: sold
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: sole
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: some
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: song
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: soon
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: sort
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: soul
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: spot
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: star
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: stay
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: step
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: stop
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: such
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: suit
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: sure
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: take
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: tale
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: talk
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: tall
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: tank
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: tape
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: task
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: team
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: tech
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: tell
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: tend
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: term
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: test
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: text
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: than
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: that
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: them
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: then
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: they
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: thin
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: this
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: thus
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: till
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: time
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: tiny
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: told
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: toll
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: tone
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: tony
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: took
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: tool
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: tour
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: town
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: tree
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: trip
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: true
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: tune
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: turn
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: twin
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: type
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: unit
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: upon
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: used
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: user
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: vary
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: vast
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: very
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: vice
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: view
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: vote
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: wage
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: wait
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: wake
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: walk
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: wall
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: want
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: ward
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: warm
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: wash
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: wave
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: ways
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: weak
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: wear
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: week
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: well
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: went
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: were
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: west
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: what
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: when
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: whom
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: wide
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: wife
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: wild
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: will
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: wind
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: wine
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: wing
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: wire
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: wise
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: wish
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: with
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: wood
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: word
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: wore
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: work
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: yard
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: yeah
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: year
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: your
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: zero
+Mar 21, 2024 12:43:41 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: zone
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: able
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: acid
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: aged
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: also
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: area
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: army
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: away
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: baby
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: back
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: ball
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: band
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: bank
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: base
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: bath
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: bear
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: beat
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: been
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: beer
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: bell
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: belt
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: best
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: bill
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: bird
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: blow
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: blue
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: boat
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: body
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: bomb
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: bond
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: bone
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: book
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: boom
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: born
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: boss
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: both
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: bowl
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: bulk
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: burn
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: bush
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: busy
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: call
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: calm
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: came
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: camp
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: card
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: care
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: case
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: cash
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: cast
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: cell
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: chat
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: chip
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: city
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: club
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: coal
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: coat
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: code
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: cold
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: come
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: cook
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: cool
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: cope
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: copy
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: CORE
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: cost
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: crew
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: crop
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: dark
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: data
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: date
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: dawn
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: days
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: dead
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: deal
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: dean
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: dear
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: debt
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: deep
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: deny
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: desk
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: dial
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: dick
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: diet
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: disc
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: disk
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: does
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: done
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: door
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: dose
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: down
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: draw
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: drew
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: drop
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: drug
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: dual
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: duke
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: dust
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: duty
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: each
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: earn
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: ease
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: east
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: easy
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: edge
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: else
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: even
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: ever
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: evil
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: exit
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: face
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: fact
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: fail
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: fair
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: fall
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: farm
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: fast
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: fate
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: fear
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: feed
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: feel
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: feet
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: fell
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: felt
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: file
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: fill
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: film
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: find
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: fine
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: fire
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: firm
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: fish
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: five
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: flat
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: flow
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: food
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: foot
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: ford
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: form
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: fort
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: four
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: free
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: from
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: fuel
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: full
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: fund
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: gain
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: game
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: gate
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: gave
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: gear
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: gene
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: gift
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: girl
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: give
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: glad
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: goal
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: goes
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: gold
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: Golf
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: gone
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: good
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: gray
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: grew
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: grey
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: grow
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: gulf
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: hair
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: half
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: hall
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: hand
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: hang
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: hard
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: harm
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: hate
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: have
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: head
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: hear
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: heat
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: held
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: hell
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: help
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: here
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: hero
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: high
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: hill
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: hire
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: hold
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: hole
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: holy
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: home
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: hope
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: host
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: hour
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: huge
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: hung
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: hunt
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: hurt
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: idea
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: inch
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: into
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: iron
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: item
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: jack
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: jane
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: jean
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: john
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: join
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: jump
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: jury
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: just
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: keen
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: keep
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: kent
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: kept
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: kick
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: kill
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: kind
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: king
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: knee
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: knew
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: know
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: lack
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: lady
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: laid
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: lake
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: land
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: lane
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: last
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: late
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: lead
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: left
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: less
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: life
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: lift
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: like
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: line
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: link
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: list
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: live
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: load
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: loan
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: lock
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: logo
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: long
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: look
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: lord
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: lose
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: loss
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: lost
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: love
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: luck
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: made
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: mail
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: main
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: make
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: male
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: many
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: Mark
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: mass
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: matt
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: meal
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: mean
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: meat
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: meet
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: menu
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: mere
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: mike
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: mile
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: milk
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: mill
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: mind
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: mine
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: miss
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: mode
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: mood
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: moon
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: more
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: most
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: move
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: much
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: must
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: name
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: navy
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: near
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: neck
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: need
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: news
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: next
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: nice
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: nick
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: nine
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: none
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: nose
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: note
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: okay
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: once
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: only
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: onto
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: open
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: oral
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: over
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: pace
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: pack
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: page
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: paid
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: pain
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: pair
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: palm
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: park
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: part
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: pass
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: past
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: path
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: peak
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: pick
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: pink
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: pipe
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: plan
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: play
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: plot
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: plug
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: plus
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: poll
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: pool
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: poor
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: port
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: post
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: pull
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: pure
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: push
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: race
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: rail
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: rain
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: rank
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: rare
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: rate
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: read
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: real
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: rear
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: rely
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: rent
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: rest
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: rice
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: rich
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: ride
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: ring
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: rise
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: risk
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: road
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: rock
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: role
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: roll
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: roof
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: room
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: root
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: rose
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: rule
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: rush
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: ruth
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: safe
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: said
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: sake
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: sale
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: salt
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: same
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: sand
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: save
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: seat
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: seed
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: seek
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: seem
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: seen
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: self
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: sell
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: send
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: sent
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: sept
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: ship
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: shop
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: shot
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: show
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: shut
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: sick
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: side
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: sign
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: site
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: size
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: skin
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: slip
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: slow
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: snow
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: soft
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: soil
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: sold
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: sole
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: some
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: song
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: soon
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: sort
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: soul
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: spot
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: star
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: stay
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: step
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: stop
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: such
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: suit
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: sure
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: take
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: tale
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: talk
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: tall
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: tank
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: tape
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: task
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: team
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: tech
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: tell
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: tend
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: term
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: test
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: text
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: than
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: that
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: them
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: then
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: they
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: thin
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: this
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: thus
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: till
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: time
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: tiny
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: told
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: toll
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: tone
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: tony
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: took
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: tool
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: tour
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: town
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: tree
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: trip
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: true
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: tune
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: turn
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: twin
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: type
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: unit
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: upon
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: used
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: user
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: vary
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: vast
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: very
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: vice
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: view
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: vote
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: wage
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: wait
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: wake
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: walk
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: wall
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: want
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: ward
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: warm
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: wash
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: wave
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: ways
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: weak
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: wear
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: week
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: well
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: went
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: were
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: west
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: what
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: when
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: whom
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: wide
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: wife
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: wild
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: will
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: wind
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: wine
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: wing
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: wire
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: wise
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: wish
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: with
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: wood
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: word
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: wore
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: work
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: yard
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: yeah
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: year
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: your
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: zero
+Mar 21, 2024 12:47:03 PM workshop05code.SQLiteConnectionManager addValidWord
+INFO: Valid Word: zone
+Mar 21, 2024 12:47:04 PM workshop05code.App main
+INFO: Invalid Guess: dadf
+Mar 21, 2024 12:47:06 PM workshop05code.App main
+INFO: Invalid Guess: c
